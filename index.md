@@ -9,7 +9,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shahez/codebase/tree/main/face-recognition)
 
-<center><img src="images/face-detection.png"/></center>
+<center><img src="images/face-recognition.png"/></center>
 
 ---
 ### Basic Used Car Valuation App
@@ -33,7 +33,7 @@ Display of estimated price range.
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-<center><img src="images/machine-earning.png"/></center>
+<center><img src="images/machine-learning.png"/></center>
 
 
 

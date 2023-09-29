@@ -1,123 +1,39 @@
+# Full Stack Data Science Engineer Portfolio
 ---
-layout: default
+## Machine learning
+
+### Face Detection and Recognition using face-api.js
+
+  This is a simple JavaScript code that utilizes the face-api.js library to perform real-time face detection and recognition using your device's camera.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shahez/codebase/tree/main/face-recognition)
+
+<center><img src="images/face-detection.png"/></center>
+
 ---
+### Basic Used Car Valuation App
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shahez/codebase/tree/main/used-car-valuation)
 
-[Link to another page](./another-page.html).
+The Car Valuation React App is a web application that helps users estimate the price of a car based on various factors such as showroom price, age, mileage, condition, and more.
 
-There should be whitespace between paragraphs.
+### Features
+Input fields for showroom price, age, mileage, and condition factors.
+Sliders to select condition factors (Interiors, Scratches, etc.).
+Estimation logic based on provided inputs.
+Display of estimated price range.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<center><img src="images/used-car_valuation.jpg"/></center>
 
-# Header 1
+---
+### Awesome Machine Learning
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/awesome-machine-learning)
 
-## Header 2
+A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<center><img src="images/machine-earning.png"/></center>
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
